@@ -13,4 +13,4 @@ Contact email: tsku@konkuk.ac.kr
 
 03_supervised_regression.py: Script for performing Bayesian hyperparameter search and training the final Random Forest model using parameters specified in Appendix A.5.
 
-CPT DB.xlsx: The dataset containing Cone Penetration Test (CPT) parameters and corresponding OCR labels used for the hybrid framework.
+CPT DB.xlsx: A representative sample dataset containing CPT parameters and corresponding OCR labels to ensure the entire workflow is executable. (Note: The full raw dataset is confidential).
