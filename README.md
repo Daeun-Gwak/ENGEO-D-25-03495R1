@@ -3,7 +3,7 @@ A Hybrid Data-Driven Framework Integrating Unsupervised and Supervised Learning
 Details of the methodology and case studies are in the following reference:
 Gwak, D., & Ku, T. (2026). Evaluating Geostatic Stress History from CPT Data: A Hybrid Data-Driven Framework Integrating Unsupervised and Supervised Learning. Engineering Geology (Ref: ENGEO-D-25-03495R1).
 
-Contact email: tsku@konkuk.ac.kr
+Contact email: daeun2@gsenc.com
 
 
 ### Files and Descriptions
